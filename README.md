@@ -1,4 +1,4 @@
-**Project Title: Coffee Sales Analysis and Dashboard (2019-2022)**
+**Project Title: Coffee Sales Analysis (2019-2022)**
 
 **Description**
 
